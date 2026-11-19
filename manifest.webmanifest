@@ -1,0 +1,25 @@
+{
+  "name": "词芽 · 春季高考与夏季高考零基础英语背单词",
+  "short_name": "词芽背单词",
+  "description": "零基础备战春季高考与夏季高考的英语背单词网站",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#6655e8",
+  "background_color": "#f7f8fc",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
